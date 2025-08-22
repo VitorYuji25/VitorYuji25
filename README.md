@@ -1,36 +1,38 @@
-## Hi there 👋 My name is Vitor Yuji, come and learn a little about me.
-### Oi, Meu nome é Vitor Yuji, venha conhecer e aprender mais sobre mim.
-
-Sou estudante de Ciência da Computação na UFU (Universidade Federal de Uberlândia), em reta final de graduação.
-
-Atualmente estou me aprofundando no desenvolvimento Web, trabalhando com HTML, CSS, JavaScript, PHP e Ajax. Além disso, tenho experiência sólida em:
-
- - Python aplicado em Machine Learning e Inteligência Artificial
-
- - Java e C
-
- - SQL e Análise de Dados
-
- - Desenvolvimento de Software e Metodologias Ágeis
-
- - Boas práticas de versionamento e desenvolvimento colaborativo
-
- - Soft skills essenciais como comunicação, trabalho em equipe e resolução de problemas
-
- - Sou apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em código.
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40px"/>
+Hi there 👋 My name is Vitor Yuji, come and learn a little about me.
+Oi, Meu nome é Vitor Yuji, venha conhecer e aprender mais sobre mim.
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorYuji25&layout=compact&theme=radical" alt="Linguagens Mais Usadas por Vitor Yuji" />
 </p>
 
+Sou estudante de Ciência da Computação na UFU (Universidade Federal de Uberlândia), em reta final de graduação. Sou apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em código.
 
+Atualmente, estou me aprofundando no desenvolvimento Web e tenho experiência sólida em diversas áreas da computação.
+
+🔭 Estou trabalhando em projetos web utilizando HTML, CSS, JavaScript, PHP e Ajax.
+
+🌱 Aprofundando meus conhecimentos em Python aplicado a Machine Learning e Inteligência Artificial.
+
+👯 Procuro colaborar em projetos open source que envolvam Desenvolvimento de Software e Análise de Dados.
+
+🤔 Busco ajuda com tópicos avançados de arquitetura de software e cloud computing.
+
+💬 Pergunte-me sobre Java, C, SQL e Metodologias Ágeis.
+
+
+<h3 align="left">Linguagens e Ferramentas:</h3>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px" title="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px" title="PHP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40px" title="TensorFlow"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40px" title="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40px" title="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40px" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40px" title="AWS"/>
+</p>
 
