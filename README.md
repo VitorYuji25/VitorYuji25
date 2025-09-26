@@ -16,8 +16,6 @@ Atualmente, estou me aprofundando no desenvolvimento Web e tenho experiência s�
 
 🤔 Busco ajuda com tópicos avançados de arquitetura de software e cloud computing.
 
-💬 Pergunte-me sobre Java, C, SQL e Metodologias Ágeis.
-
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
